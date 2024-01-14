@@ -32,7 +32,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://t.me/DanilaGosudarev"> 
+  <a href="https://t.me/DanilaGosudarev" target="_blank"> 
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram"/>
   </a>
+  <a href="https://vk.com/tovar_dlr_givotnblx" target="_blank"> 
+    <img src="https://img.shields.io/badge/ВК-blue?logo=vk&logoColor=white&style=for-the-badge" alt="ВК"/>
+  </a>
+  
 </div>  
