@@ -3,11 +3,11 @@
 ## My Tech Stack
   
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,jest,react,redux,sass,ts,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,jest,react,redux,sass,ts,vite,webpack&perline=10)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite&perline=10)](https://skillicons.dev)
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=10)](https://skillicons.dev)
 
 <br/>
 
