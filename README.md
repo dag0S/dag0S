@@ -1,12 +1,12 @@
-# <div align="center">Данила Государев. Frontend-разработчик</div>  
+# <div align="center">Danila Gosudarev | Frontend-developer</div>  
 
-# My Tech Stack
+## My Tech Stack
   
-## Frontend
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,jest,react,redux,sass,ts,vite,webpack)](https://skillicons.dev)
-## Backend
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite)](https://skillicons.dev)
-## DevOps
+### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <br/>
