@@ -18,4 +18,7 @@
   <a href="https://vk.com/dag0s" target="_blank"> 
     <img src="https://img.shields.io/badge/ВК-blue?logo=vk&logoColor=white&style=for-the-badge" alt="ВК"/>
   </a>
+  <a href="mailto:danidagosudarev@gmail.ru" target="_blank"> 
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/>
+  </a>
 </div>  
