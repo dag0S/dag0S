@@ -5,7 +5,7 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,js,html,css,figma,jest,sass,vite,webpack,gulp&perline=10)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,sqlite&perline=10)](https://skillicons.dev)
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=10)](https://skillicons.dev)
 
